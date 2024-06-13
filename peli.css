@@ -1,0 +1,17 @@
+html {
+    background-color: antiquewhite;
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:antiquewhite;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    background-color:rgba(255, 244, 230, 0.884);
+}

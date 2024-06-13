@@ -1,0 +1,18 @@
+html {
+    background-color:rgb(63, 60, 255,  0.884);
+    
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(63, 60, 255,  0.884);
+    
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    background-color:rgb(0, 119, 255);
+}

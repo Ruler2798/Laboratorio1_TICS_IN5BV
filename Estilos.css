@@ -1,0 +1,68 @@
+html {
+    background-color: white;
+    
+}
+
+
+body {
+    
+    font-size: 18px;
+
+}
+
+header {
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-style: Arial sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+h1:hover {
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: medium;
+    font-size: 18px;
+    color:black;
+}
+
+h2:hover{
+    font-size: 22px;
+    color:red;
+}
+
+h3 {
+    text-align: center;
+    font-size: medium;
+    font-size: 18px;
+    color:black;
+
+}
+
+h3:hover{
+    font-size: 22px;
+    color:red;
+}
+
+h4 {
+    text-align: center;
+    font-size: medium;
+    font-size: 18px;
+    color:black;
+}
+
+h4:hover{
+    font-size: 22px;
+    color:red;
+}
+
+img {
+    image-orientation: center;
+}
