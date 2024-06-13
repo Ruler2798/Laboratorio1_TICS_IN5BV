@@ -1,0 +1,97 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1C1C1E;
+    color: #F2F2F7;
+    background-image: url('/fondo-sitio.jpg');
+    background-position-y:top;
+    background-position-x:center;
+    background-attachment: fixed;
+    background-size:cover; /* Ajusta el tamaño de la imagen para cubrir toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    margin-top:40px;
+    margin-bottom:40px;
+}
+
+/* Cabezera de Sitio */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1C1C1E70;
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    backdrop-filter: blur(20px); /* Efecto de desenfoque */
+}
+
+header .espacio {
+    flex: 1;
+    background-color: #1C1C1E;
+}
+
+header nav a {
+    color: #F2F2F770;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    color: #F2F2F7;
+    font-size: 12;
+}
+
+/* Contenido del Sitio */
+
+/* Imágenes */
+
+
+/* Cuadro Redondeado */
+.cuadro-redondeado {
+    background-color: #1C1C1E70;
+    padding: 27px;
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top:200px;
+    margin-bottom:27px;
+    border:2px;
+    border-radius: 12px;
+    border-color: #8E8E93;
+    text-align: center;
+    backdrop-filter: blur(20px);
+}
+
+.boton-redondeado {
+    background-color: transparent;
+    color: #F2F2F770;
+    border:2px;
+    border-radius: 12px;
+    border-color: #48484A;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.boton-redondeado:hover {
+    background-color: #8E8E9370;
+    color:#F2F2F7;
+}
+
+/* Info Caja */
+.info-caja {
+    display: none;
+    background-color: #8E8E93;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+/* Productos */
+.panel-texto {
+    background-color: #48484A;
+    padding: 20px;
+    border-radius: 15px;
+    color: #F2F2F7;
+}
