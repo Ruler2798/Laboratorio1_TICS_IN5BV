@@ -1,0 +1,12 @@
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        .enlace {
+            display: block;
+            margin-top: 20px;
+        }
