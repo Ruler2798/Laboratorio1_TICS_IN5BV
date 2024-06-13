@@ -1,0 +1,14 @@
+Hola, me podrías hacer 3 paginas web en html para mi tarea?
+La pagina numero 1 deberá contener un diseño bonito con colores distintivos y un fondo, la primera pagina tratara sobre mi curriculum necesito que le coloques Titulo, skills, experiencia etc..
+Debera de tener 2 links al final las cuales respectivamente me tienen que llevar a una pagina diferente
+La primera sera a Mi pelicula Favorita y la segunda sera sobre Mi videojuego favorito.
+
+
+La segunda pagina como ya te habia comentado era sobre Mi pelicula Favorita
+necesito que le coloques el boceto con 2 imagenes para los actores principales y el titulo de la pelicula, y hasta abajo un link para regresar.
+
+
+La tercera pagina Debera tener informacion sobre mi videojuego favorito, esta pagina 
+Debera de tener un fondo en el cual pueda colocar la imagen que quiera, un contenedor para la informacion y ahi dentro unas 3 imagenes que yo eligire que colocar, Tambien Debera de tener el titulo respectivo.
+
+Muchas gracias!
