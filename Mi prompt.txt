@@ -1,0 +1,40 @@
+tengo est documento de html:
+<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="estilo_fondo.css">
+            <title>Laboratorio Kinal</title>
+            <link rel="shortcut icon" href="rock_logo.png">
+        </head>
+
+    <body>
+        <font color="Gold"><font face="Arial">
+            <center><h1>Index</h1></center>
+
+            <br>
+            <br>
+            <center><p><h2>Laboratorio 1: Elaboración de página HTML y CSS</h2></p></center>
+            <br>
+            <br>
+            <br>
+            <center>
+                <font color="White"><font face="Arial">
+                    <p><h2><a href="CV.html">Ir a Currículum Personal</a></h2></p>
+                </font></font>
+            </center>
+        </font>
+        </font>
+    </body>
+
+</html>
+
+
+necesito que me hagas que funcione la opción de “Ir a Currículum Personal” y que lleve a otra pestaña de HTML, la cual necesito que me crees, en donde digas que me llamo Ricardo Figueroa, nací el 3 de enero del año 2007, y mi película favorita es Harry Potter y la cámara secreta, y mi videojuego favorito es red death redemption 2, y necesito que todo lleve CSS, quiero que me entregues el CSS que utilizaste, el documento HTML, y la integración de este al que ya te pase.
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+necesito que me quites el texto que me quites el texto que dice en que año naci, y mis gustos, y me creees un falso curiculum, todo con css, mi nombre es ricardo figueroa, y naci el 3 de enero del año 2007, y me gusta lap rogramacion en c# y java, apartir de eso inventante un curriculum grande, y que tenga 2 botones, uno que diga "Pelicula favorita", que lleve a otro html, decorado que diga mi pelicula favorita, todo con css, y el otro que diga mi juego favorito, todo con css, y decorado, y ambos con un boton de inicio, que me redirija al index.
+
