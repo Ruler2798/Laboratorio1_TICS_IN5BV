@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+h1 {
+    font-style: italic;
+    font-size: 16px;
+}
+p {
+    font-size: 12px;
+    margin: 20px 0;
+    width: 80%;
+}
+iframe {
+    margin-top: 20px;
+}
