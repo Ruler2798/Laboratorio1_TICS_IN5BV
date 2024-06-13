@@ -1,7 +1,7 @@
-Has una codigo de html con un titulo que diga "Crhistopher Alexander Gomez Rojas 2023302" que el titulo que sea Italic tamaño 15 y que lleve 3 vinculos que lleven a otro html todo centrado
+Has una codigo de html con un titulo que diga "Crhistopher Alexander Gomez Rojas 2023302" que el titulo que sea Italic tamaño 15 y que lleve 3 vinculos que lleven a otro html todo centrado.
 
-en la page2 crea un html donde haya un titulo el cual diga "The End of Evangelion" con letra italic tamano 16, despues una descripcion que diga "Me gusto mucho la pelicula porque trata temas los cuales me parecen interesantes, ademas es la continuacion de la serie" con letra arial tamano 12 y que tenga una preview con este link "https://www.youtube.com/watch?v=Y9cXQfLdGfQ" 
+en la page2 crea un html donde haya un titulo el cual diga "The End of Evangelion" con letra italic tamano 16, despues una descripcion que diga "Me gusto mucho la pelicula porque trata temas los cuales me parecen interesantes, ademas es la continuacion de la serie" con letra arial tamano 12 y que tenga una preview con este link "https://www.youtube.com/watch?v=Y9cXQfLdGfQ".
 
-en la page3 crea un html donde haya un titulo el cual diga "Hollow Knight" con letra italic tamano 16, despues una descripcion que diga "Me gusto el juego porque es un juego dificil y soy masoquista" con letra arial tamano 12 y que tenga una preview con este link "https://www.youtube.com/watch?v=nSPJXlYjENE"
+en la page3 crea un html donde haya un titulo el cual diga "Hollow Knight" con letra italic tamano 16, despues una descripcion que diga "Me gusto el juego porque es un juego dificil y soy masoquista" con letra arial tamano 12 y que tenga una preview con este link "https://www.youtube.com/watch?v=nSPJXlYjENE".
 
-Has un html con una imagen de fondo que mantenga sus dimensiones originales
+Has un html con una imagen de fondo que mantenga sus dimensiones originales.
