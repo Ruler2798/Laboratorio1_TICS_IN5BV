@@ -1,2 +1,3 @@
-# Laboratorio1_TICS_IN5BV
-Laboratorio
+# Mi Sitio HTML
+
+Un sitio mostrando mi currículum personal e intereses.
