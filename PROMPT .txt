@@ -1,0 +1,73 @@
+PROMPT: 
+
+- CV
+	<!DOCTYPE html>
+	<html>
+    		<head>
+        		<link rel="stylesheet" type="text/css" href="fondo_cv.css">
+        		<title>Curriculum Vitae</title>
+        		<link rel="shortcut icon" href="messi.png">
+        		<style>
+            
+        		</style>
+    		</head>
+    		<body>
+
+    		</body>
+	</html>
+
+Puedes tomar de referencia este código y podes ajustar el tamaño del fondo al tamaño de la imagen para que se vea toda la imagen.
+Las dimensiones de la imagen quiero que se ajusten al tamaño de la ventana mostrada.
+
+- Video Juego Favorito:
+	<!DOCTYPE html>
+	<html>
+    		<head>
+        		<link rel="stylesheet" type="text/css" href="fondo_videojuego.css">
+        		<title>Video Juego</title>
+        		<link rel="shortcut icon" href="messi.png">
+        		<style>
+            
+        		</style>
+    		</head>
+    		<body>
+
+    		</body>
+	</html>
+	
+	Puedes tomar de referencia este código de HTML y le podes agregar como titulo Video Juego Favorito.
+	El titulo quiero que este de color gris oscuro con una fuente de letra sea amigable a la vista, no tan simple mas grande que el texto
+	Como texto quiero que diga God Of War III
+	Y como siguiente texto quiero que diga: "Para mi God of war 3 es un buen cierre para la saga y la historia
+						de Kratos por las tierras griegas y que un buen final para esa fase
+						de Kratos y el inicio perfecto para la nueva epata del espartano
+						en tierras nordicas"
+	El texto quiero que este de color negro y con una fuente de letra sea amigable a la vita, no tan simple y que aparezca el texto en 4 lineas  
+	
+	Quiero tanto como el texto y el titulo esten centrados
+
+- Pelicula
+	<!DOCTYPE html>
+	<html>
+    		<head>
+        		<link rel="stylesheet" type="text/css" href="fondo_pelicula.css">
+        		<title>Cristian Luna</title>
+        		<link rel="shortcut icon" href="messi.png">
+        		<style>
+
+        		</style>
+    		</head>
+    		<body>
+
+    		</body>
+	</html>
+
+	Puedes tomar este código de referencia: Puedes crear un código de HTML donde el titulo quiero que sea sobre "The Batman"
+	con una fuente Arial de 18 color gris claro, como descripción quiero que pongas "A mi me gusto mucha esta pelicula ya que
+	después de todas las peliculas de Marvel, esta pelicula vino a cambiar totalmente la perspectiva de las peliculas de superhéroes
+	ya que esta pelicula no es como las peliculas de Marvel es una pelicula mas seria y con un tono mas adulto y por eso me gusta tanto
+	y aparte BATMAN es mi superhéroe favorito". 
+	Después de la descripción quiero que muestres un preview con este link de YouTube "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+	El texto quiero que este de color gris claro y con una fuente de letra sea amigable a la vita, no tan simple y que aparezca el texto en 4 líneas. 
+
+	
