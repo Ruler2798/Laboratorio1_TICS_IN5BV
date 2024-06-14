@@ -1,0 +1,27 @@
+Quiero crear una página web personal que actúe como un portafolio y currículum vitae.
+
+#### Estructura de la Página
+- **Página Principal**: Con una breve introducción y enlaces a otras secciones.
+- **Sección de CV**: Página que muestra una imagen de mi CV.
+- **Sección de Película Favorita**: Página que contiene una descripción y un video(enlace) de mi película favorita.
+- **Sección de Videojuego Favorito**: Página que contiene una descripción y un video(enlace) de mi videojuego favorito.
+
+#### Contenido Específico
+- **Página Principal**:
+  - Título: "Bienvenido a mi portafolio"
+  - Enlaces a las tres secciones mencionadas.
+- **Sección de CV**:
+  - Imagen del CV.
+- **Sección de Película Favorita**:
+  - Descripción de la película.
+  - Video de YouTube de la película.
+- **Sección de Videojuego Favorito**:
+  - Descripción del videojuego.
+  - Video de YouTube del videojuego.
+
+#### Estilo y Diseño
+- Colores: Quiero que hagas una paleta de colores cálida azul y que sea atractivo, haz un fondo minimalista, texto oscuro.
+- Fuente: Arial, sans-serif.
+- Disposición: Centrado con márgenes.
+
+##Nota: Haz que las paginas excepto la principal tengan un botón para regresar a la pagina principal.
