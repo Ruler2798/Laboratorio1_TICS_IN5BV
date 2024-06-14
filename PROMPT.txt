@@ -1,7 +1,6 @@
-Hazme un codigo de html que tenga un encabezado que diga "Steven Adrian Soto Morataya - 2023147 IN5BV" y luego en el cuerpo que tenga 3 enlaces  que me lleven a otros html, todo centrado y fuente arial 12
-Hazme una pagina que tenga un titulo en el encabezado que diga: "El lobo de Wall Street"
-Y en el cuerpo una descripción "Esta película es de mis favoritas porque representa una parte muy importante de mi vida y también nos deja una increíble enseñanza, además de que esta basada en la vida real" en arial 20, ademas que tenga un enlace a este video de youtube con todo y previsualizacion: "https://www.youtube.com/watch?v=DEMZSa0esCU"
-Hazme una pagina que tenga un titulo en el encabezado que diga: "Juego Favorito: Geometry Dash"
-Y en el cuerpo una descripción "Este juego es uno de mis favoritos ya que marcó la mayoría de mi infancia y fue uno de los que mas he jugado en toda mi vida. Geometry Dash es un videojuego de plataformas y videojuego rítmico creado en 2013 por el desarrollador sueco Robert Topala, y posteriormente desarrollado por su empresa independiente RobTop Games." en arial 20, ademas que tenga un enlace a este video de youtube con todo y previsualizacion: "https://www.youtube.com/watch?v=LxA4NJMiZ8o"
-Hazme una pagina de html que tenga muestre mi imagen "CV-2023147.jpg" la imagen es de 1414 x 2000
- Quiero cambiar el icono de mi pagina como se hace
+Hazme un codigo de html que tenga un encabezado que diga "Harlin Williams Palacios Alvarez - IN5BV" y luego en el cuerpo que tenga 3 enlaces  que me lleven a otros html, todo centrado y fuente algerian 18
+Hazme una pagina que tenga un titulo en el encabezado que diga: "ANNE WITH AN 'E'"
+Y en el cuerpo una descripción "Esta película es mi favorita porque trata de una niña que es de un orfanato pero por fin unos campesinos la adoptaron pero estos campesinos habían adoptado a un niño el cual el orfanato se equivocó y le enviaron a la niña, después de tantas cosas la niña fue creciendo y ella les agradece por ser tan importantes para ella, el padre que 
+            la adoptó la inscribe en el libro de la casa el cual están todos los nombres de los integrantes de la familia." en Calibri 20, además que tenga un enlace a este video de youtube con todo y previsualización: "https://www.youtube.com/embed/VRe5XeXs1i8"
+Hazme una pagina que tenga un titulo en el encabezado que diga: "Juego Favorito: Stumble Guys"
+Y en el cuerpo una descripción "Este Juego es uno de mis favoritos porque comparto un rato de diversión con mis amigos y otras personas al rededor." en calibri 20, además que tenga un enlace a este video de youtube con todo y previsualización: "https://www.youtube.com/watch?v=PZHOluWceNQ".
