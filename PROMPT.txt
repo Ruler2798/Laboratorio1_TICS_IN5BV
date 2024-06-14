@@ -1,7 +1,3 @@
-Hazme un codigo de html que tenga un encabezado que diga "Steven Adrian Soto Morataya - 2023147 IN5BV" y luego en el cuerpo que tenga 3 enlaces  que me lleven a otros html, todo centrado y fuente arial 12
-Hazme una pagina que tenga un titulo en el encabezado que diga: "El lobo de Wall Street"
-Y en el cuerpo una descripción "Esta película es de mis favoritas porque representa una parte muy importante de mi vida y también nos deja una increíble enseñanza, además de que esta basada en la vida real" en arial 20, ademas que tenga un enlace a este video de youtube con todo y previsualizacion: "https://www.youtube.com/watch?v=DEMZSa0esCU"
-Hazme una pagina que tenga un titulo en el encabezado que diga: "Juego Favorito: Geometry Dash"
-Y en el cuerpo una descripción "Este juego es uno de mis favoritos ya que marcó la mayoría de mi infancia y fue uno de los que mas he jugado en toda mi vida. Geometry Dash es un videojuego de plataformas y videojuego rítmico creado en 2013 por el desarrollador sueco Robert Topala, y posteriormente desarrollado por su empresa independiente RobTop Games." en arial 20, ademas que tenga un enlace a este video de youtube con todo y previsualizacion: "https://www.youtube.com/watch?v=LxA4NJMiZ8o"
-Hazme una pagina de html que tenga muestre mi imagen "CV-2023147.jpg" la imagen es de 1414 x 2000
- Quiero cambiar el icono de mi pagina como se hace
+realiza una pagina web simple con html, cuyo encabezado este Fernando Tomas 2023270 y tenga tres vinculos a otras 3 paginas mas realiza un estilo donde pueda colocar una imagen en la parte de fondo de la pagina
+haz uno nuevo en donde se pueda Dar un encabezado, una descripcion, y donde se pueda ver un video de YouTube
+y haz otro donde se pueda Plantear un CV simple
