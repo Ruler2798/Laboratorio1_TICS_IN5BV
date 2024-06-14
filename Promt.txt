@@ -1,0 +1,21 @@
+Crea una pagina Web Personal con los siguientes criterios:
+
+Objetivo: Crear una página web personal utilizando HTML y CSS con las siguientes especificaciones:
+Página Principal (index.html):
+Incluir una breve introducción sobre mí.
+Sección "Mis Cosas Favoritas" que incluya música, libros, película, juego favorito, y hobbies, cada uno con una imagen y una breve descripción.
+Enlaces de navegación a las páginas de "Currículum" (cv.html) y "Página Editable" (edit.html).
+Página de Currículum (cv.html):
+
+Información personal y profesional.
+Secciones para educación, experiencia laboral, habilidades y contacto.
+Página Editable (edit.html):
+
+Permitir futuras actualizaciones y contenido adicional.
+Incluir enlaces de contacto como Instagram, Facebook, Correo, GitHub.
+Requisitos Generales:
+
+Diseño Practico y limpio.
+HTML válido y bien estructurado.
+Uso de etiquetas semánticas para accesibilidad y SEO.
+Comentarios en el código HTML para facilitar futuras actualizaciones.
