@@ -1,0 +1,9 @@
+Promt 
+
+Crea un html con el css aparte para crear una pajina web
+
+Crea un html con el css aparte para crear un curriculum
+
+Crea un html con el css aparte para crear una apjina con un comentario para un juego
+
+Crea un html con el css aparte para crear una apjina con un comentario para una pelicula

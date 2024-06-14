@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(brackground.png);
+    background-size: cover;
+    background-position: 0 0, center;
+
+}
+
+
+.contenedor {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+}
+ 
+.contenedor-2 {
+    width: 30%;
+}
+
+.img-juego {
+    border-radius: 8px;
+    width: 80%;
+} 
