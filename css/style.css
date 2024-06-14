@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #F2F2F2;
+    font-family: verdana;
+}
+
+.button {
+    background-color: #5D733C; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.img-juego {
+    border-radius: 8px;
+    width: 50%;
+}
+
+.img-pelicula {
+    border-radius: 8px;
+    width: 50%;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;    /* Centra verticalmente */
+}
+
+.contenedor-2 {
+    width: 80%;
+}
