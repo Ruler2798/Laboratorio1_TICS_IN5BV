@@ -3,29 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Sitio Web</title>
+    <title>Inicio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- Cabezera de Sitio -->
     <header>
-        <div></div>
-        <nav>
-            <a href="index.html">Inicio</a>
-            <a href="productos.html">Productos</a>
-            <a href="acerca-de.html">Acerca De</a>
-        </nav>
-        <div></div>
+        <a href="index.html">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="acerca.html">Acerca De</a>
     </header>
-
-    <!-- Contenido del Sitio (Inicio) -->
-    <section id="inicio" class="contenido">
-        <div class="imagen-fondo"></div>
-        <div class="cuadro-redondeado">
-            <a class="boton-redondeado" href="sobre-mi.html">Sobre Mí</a>
-            <a class="boton-redondeado" href="hobbys.html">Hobbys</a>
-            <a class="boton-redondeado" href="intereses.html">Favoritos</a>
-            <a class="boton-redondeado" href="currículu.html">Proyectos</a>
+    <section id="inicio">
+        <div class="background-image">
+            <h1>Bienvenido</h1>
+        </div>
+        <div class="content-box">
+            <button onclick="window.location.href='curriculum.html'">Currículum Personal</button>
+            <button onclick="window.location.href='intereses.html'">Intereses</button>
+            <button onclick="window.location.href='hobbies.html'">Hobbies</button>
+            <button onclick="window.location.href='informacion.html'">Información</button>
         </div>
     </section>
 </body>
